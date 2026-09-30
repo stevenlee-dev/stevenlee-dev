@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-labelledby="title desc">
+  <title id="title">Steven</title>
+  <desc id="desc">Practical web tools and open source</desc>
+  <rect width="1200" height="240" rx="16" fill="#101b2c"/>
+  <path d="M890 0v240M990 0v240M1090 0v240M790 70h410M790 170h410" stroke="#253449" stroke-width="1"/>
+  <rect x="890" y="70" width="100" height="100" rx="10" fill="#203d56"/>
+  <rect x="1006" y="86" width="68" height="68" rx="8" fill="none" stroke="#78c5bc" stroke-width="2"/>
+  <circle cx="940" cy="120" r="16" fill="#78c5bc"/>
+  <rect x="56" y="53" width="40" height="4" rx="2" fill="#78c5bc"/>
+  <text x="56" y="123" font-family="Segoe UI,Arial,sans-serif" font-size="56" font-weight="650" fill="#f0f5fa">Steven</text>
+  <text x="58" y="170" font-family="Segoe UI,Arial,sans-serif" font-size="23" fill="#b7c5d6">Practical web tools · Open source</text>
+</svg>
